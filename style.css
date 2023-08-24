@@ -1,0 +1,10 @@
+.container-fluid{
+
+    background-color: rgb(106, 101, 101);
+}
+
+.foot{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
